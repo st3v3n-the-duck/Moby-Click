@@ -1,0 +1,23 @@
+# ninja log v5
+155	259	7785257514419031	C:/Users/A1097apulia/Shooting VR Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e3c3b377/obj/arm64-v8a/libswappywrapper.so	ada5df46c7e62aee
+1	889	7785257520804876	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3b855c4a49085128
+48	153	7785257513449389	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9950cae090505a72
+21	659	7785257518479313	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6f05f4cf41840397
+32	663	7785257518528499	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c825927f0fbb2908
+26	780	7785257519723235	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7d451ee13013a4e3
+11	709	7785257518988778	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	ce259d9e867698b
+6	725	7785257519177907	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c6f71b0cdedf5b42
+40	713	7785257519018399	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1a3f1c00631b6eed
+16	839	7785257520277412	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e03064f1b5d54109
+890	954	7785257521476935	C:/Users/A1097apulia/Shooting VR Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e3c3b377/obj/arm64-v8a/libgame.so	ba7ab61f40469d26
+75	442	7785995572917380	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	9950cae090505a72
+443	631	7785995574634593	C:/Users/A1097apulia/Shooting VR Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e3c3b377/obj/arm64-v8a/libswappywrapper.so	ada5df46c7e62aee
+53	1380	7785995582263391	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	c825927f0fbb2908
+23	1382	7785995582321974	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	ce259d9e867698b
+33	1384	7785995582311397	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	6f05f4cf41840397
+46	1406	7785995582548302	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	1a3f1c00631b6eed
+40	1462	7785995583110295	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c6f71b0cdedf5b42
+60	1601	7785995584501083	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	7d451ee13013a4e3
+68	1608	7785995584577384	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e03064f1b5d54109
+15	1697	7785995585440215	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	3b855c4a49085128
+1697	1785	7785995586358312	C:/Users/A1097apulia/Shooting VR Game/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e3c3b377/obj/arm64-v8a/libgame.so	ba7ab61f40469d26
